@@ -28,3 +28,11 @@
   * [2023 华为杯国赛复盘](competition/shu-xue-jian-mo/2023-hua-wei-bei-guo-sai-fu-pan.md)
 * [kaggle](competition/kaggle/README.md)
   * [Detect Sleep States](competition/kaggle/detect-sleep-states.md)
+
+## 🥦 Training
+
+* [leetcode](training/leetcode.md)
+
+## 🍐 project
+
+* [Page 2](project/page-2.md)
