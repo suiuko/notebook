@@ -31,7 +31,8 @@
 
 ## 🥦 Training
 
-* [leetcode](training/leetcode.md)
+* [leetcode](training/leetcode/README.md)
+  * [my note book](https://lt.suiuko.com)
 
 ## 🍐 project
 
