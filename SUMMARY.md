@@ -11,7 +11,7 @@
 
 ## 🫑 RT
 
-* [Page 1](rt/page-1.md)
+* [RT NOTE](https://rtn.suiuko.com)
 
 ## 🥝 AI
 
