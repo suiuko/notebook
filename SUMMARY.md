@@ -37,3 +37,7 @@
 ## 🍐 project
 
 * [Page 2](project/page-2.md)
+
+## 小知识点
+
+* [小资料](xiao-zhi-shi-dian/xiao-zi-liao.md)
